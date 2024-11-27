@@ -1,0 +1,17 @@
+Employee Records
+John Smith,Engineering,75000
+Sarah Johnson,Marketing,65000
+Mike Wilson,Sales,70000
+Product Inventory
+SKU123,Laptop,899.99,In Stock
+SKU456,Monitor,299.99,Low Stock
+SKU789,Keyboard,49.99,Out of Stock
+Daily Log Entries
+2024-01-15: System maintenance performed
+2024-01-16: Updated inventory database
+2024-01-17: New employee orientation
+Mixed Content Example
+
+This is a plain text line
+Here's a number: 42
+Special chars: @#$%
